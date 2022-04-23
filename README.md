@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dovmial
-- 👀 I’m interested in <b>C++/Qt/Unreal Engine, C#/ASP/Unity, Android(Java/Kotlin), Python, GameDev, AI, Science</b>
+- 👀 I’m interested in <b>C++/Qt/Unreal Engine, C#/ASP/(ADO/EF)/Unity, Android(Java/Kotlin), Python, GameDev, AI, Science</b>
 - 🌱 I’m currently learning: <b>C#(WEB-Programming), ASP MVC, Entity, Unity</b>
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me <b color: blue>nma91@mail.ru</b>, <b>[telegram](https://t.me/Dovmial), [vk](https://vk.com/dovmial)</b>
