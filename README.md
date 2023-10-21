@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dovmial
+- 👋 Hi
 - 👀 I’m interested in <b>C++/Qt/Unreal Engine, C#/ASP/EF/Unity/MAUI, Android(Kotlin), Python, GameDev, AI, Science</b>
 - 🌱 I’m currently learning: <b>MAUI, architectures</b>
 - 💞️ I’m looking to collaborate with other developers
