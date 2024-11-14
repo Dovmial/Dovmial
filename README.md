@@ -1,6 +1,6 @@
-- 👋 Hi
-- 👀 I’m interested in <b>C++/Qt/Unreal Engine, C#/ASP/EF/Unity/MAUI, Android(Kotlin), Python, GameDev, AI, Science</b>
-- 🌱 I’m currently learning: <b>MAUI, architectures</b>
+- 👋 Hi, I'm C# developer (Back, Desktop, Web, Android) 
+- 👀 I’m interested in <b>C#/ASP/Blazor/Unity/MAUI, C++/Qt/Unreal Engine, Enterprise, GameDev, AI, Science</b>
+- 🌱 I’m currently learning: <b>MAUI, architectures, DDD, functional programming</b>
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me <b color: blue>nma91@mail.ru</b>, <b>[telegram](https://t.me/Dovmial), [vk](https://vk.com/dovmial)</b>
 
