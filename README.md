@@ -1,10 +1,4 @@
-![Dovmial](./assets/profile-banner.webp)
-
-# Software Engineer
-
-I build backend systems and automate business workflows with C# and .NET.
-
-I use AI coding agents to turn specifications into small changes that I verify through automated tests and code review.
+![Dovmial. Software Engineer. C# and .NET backend systems and business process automation. AI coding agents, specifications, tests, and code review.](./assets/profile-schematic.webp)
 
 I’m interested in software architecture, domain-driven design, and functional programming in C#.
 
